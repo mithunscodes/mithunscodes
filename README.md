@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**mithunscodes/mithunscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My GitHub Copilot Pro+ Badge
+![GitHub Copilot Pro+](https://github.com/github/copilot-docs/blob/main/assets/copilot-pro-plus-badge.png?raw=true)
 
-Here are some ideas to get you started:
+### About Me
+Hi, I’m Mithun, and this is my GitHub profile! Here, you'll find projects related to blockchain technology, decentralized applications, and more. Feel free to explore and connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- [CircuitChain Explorer](https://github.com/mithunscodes/CircuitChain)
+- [Other Cool Blockchain Tools](https://github.com/mithunscodes)
+
+Thanks for visiting my profile!
