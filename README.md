@@ -76,14 +76,6 @@ Real-time Systems • Performance Monitoring • Cloud Infrastructure • Networ
 
 ---
 
-## 📊 GitHub Stats
-
-![Mithun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithunscodes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithunscodes&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🔗 Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mithunsavio.vercel.app)
@@ -91,5 +83,3 @@ Real-time Systems • Performance Monitoring • Cloud Infrastructure • Networ
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mithunsavio@gmail.com)
 
 ---
-
-*Currently exploring: DevOps workflows, CI/CD pipelines, and scalable backend architectures*
